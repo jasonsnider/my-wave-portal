@@ -17,4 +17,6 @@ npx hardhat help
 Tutorial tasks
 ```sh
 npx hardhat run scripts/run.js
+npx hardhat run scripts/deploy.js --network localhost
+npx hardhat run scripts/deploy.js --network rinkeby
 ```
