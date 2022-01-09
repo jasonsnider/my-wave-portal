@@ -13,3 +13,8 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+Tutorial tasks
+```sh
+npx hardhat run scripts/run.js
+```
